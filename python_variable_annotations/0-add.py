@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Module contenant une fonction d'addition de nombres flottants."""
+"""Module contenant une fonction d'addition de flottants."""
 
 
 def add(a: float, b: float) -> float:
