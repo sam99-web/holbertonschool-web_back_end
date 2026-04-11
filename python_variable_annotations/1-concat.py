@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Module that concatenates two strings."""
+"""Module contenant une fonction de concatenation de chaines."""
 
 
 def concat(str1: str, str2: str) -> str:
-    """Return the concatenation of str1 and str2."""
+    """Concatene deux chaines de caracteres et retourne le resultat."""
     return str1 + str2
